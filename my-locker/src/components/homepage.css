@@ -1,0 +1,51 @@
+.title-form {
+    padding-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    cursor: pointer;
+}
+
+.mid-screen{
+    border: 1px solid; 
+    width: 277px;
+    height: 301px;
+    padding-bottom: 50px;
+}
+.img-map{
+    width: 275px;
+    height: 299px;
+} 
+
+.barra-items{
+    padding-top: 105px;
+}
+
+.li {
+    height: 50px;
+}
+
+ol, ul {
+    padding-left: 0.5rem;
+}
+
+.home-icon{
+    padding-right: 60px;
+}
+
+.carteira-icon{
+    padding-right: 60px;
+    size-adjust: 30px;
+}
+
+.search-icon {
+    size: 30px;
+    padding-right: 60px;
+}
+
+.carteira-icon{
+    size: 100px;
+}
